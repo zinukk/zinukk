@@ -8,14 +8,16 @@
 
 ## 🛠 Tech Stack 
 
-- **Frontend** : 
+<div>
   <img src="https://img.shields.io/badge/React.js-skyblue?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=black">  
+<div/>
 
+<br/>
 <br/>
 
 ## 🏆 Awards
